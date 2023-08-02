@@ -3,4 +3,6 @@
 
 Project code for Udacity's AI Programming with Python Nanodegree program. In this project, first develop code for an image classifier built with PyTorch, then convert it into a command line application.
 
-This repository contains an AI image classifier project developed using Python. The image classifier leverages deep learning techniques and utilizes popular libraries such as TensorFlow, PyTorch and Keras. It is trained on a large dataset of images and can accurately classify objects in images with high accuracy. The project also includes detailed documentation and instructions on how to use the classifier in your own applications. Feel free to explore the code.
+This repository contains an image classifier project developed using PyTorch, a powerful deep learning library. The image classifier is trained on the Flowers-102 dataset, which can be accessed at ``` https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html ```. The dataset consists of 102 categories of flowers, making it a challenging and diverse dataset for training the model.
+
+The project's code includes the implementation of a convolutional neural network (CNN) using PyTorch, which achieves high accuracy in classifying flower images. The repository also contains instructions on how to set up the environment, download the dataset, and train the model.
